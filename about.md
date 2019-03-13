@@ -5,11 +5,13 @@ permalink: /about/
 published: true
 ---
 
-I'm a young male adult in his mid-twenties. I used to play a lot of Nintendo games (I owned a GBC and a Gamecube) and be a little fanboy that (mild-mannerly) praised games on my system that I'd never played and trashed rival stuff. I'd say I'm somewhat past that now. 
+I'm a young male adult in his mid-twenties. I used to play a lot of Nintendo games when I was a wee lad (I owned a GBC and a Gamecube). I guess I also was a little naive fanboy that (mild-mannerly) praised games I'd never played on systems I owned and downplayed exclusives on rival platforms that I'd also never played. I'd say I'm mostly past that now, thankfully. 
 
 I particularly like the 1998-2005 period of games. Partly because I grew up playing some of them, but also because AAA still had a lot of wild creativity (I'm still unsure know how niche games like Giants : Citizen Kabuto ended up being made), sprawling level designs that didn't feel over-engineered, messing around with fairly advanced 3D without being uncanny-valleyish. Compared to the previous generation, complex worlds could be fleshed out without too many draw distance and polygon count issues, yet still leave much for the player's imagination to fill in. Things started going very downhill after that, in my somewhat limited and biased opinion.
 
-I grew up and live in Europe, and am bilingual (hence the French and English reviews you'll find on this site). This site will mostly be about videogames, for now, anyway.
+I grew up and live in Europe, and am bilingual (hence the French and English reviews you'll find on this site). 
+
+This site will mostly be about videogames. For now, anyway.
 
 ### Interesting game critics
 
