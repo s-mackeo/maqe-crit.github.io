@@ -17,8 +17,8 @@ From what I can tell, most game reviewers are drab, conformist, and uninterestin
 
 Here are a few reviewers don't follow that trend whose articles and work I particularly enjoy reading :
 
-- Tevis Thompson
-- Jed Pressgrove
+- Tevis Thompson,
+- Jed Pressgrove,
 - Joel Goodwin (Electron Dance, has made some excellent short films on various topics, such as No Man's Sky, or the joy of exploration in video games, which you can view on youtube).
 
 Here are a few Youtube channels with interesting content :
