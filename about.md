@@ -17,18 +17,18 @@ From what I can tell, most game reviewers are drab, conformist, and uninterestin
 
 Here are a few reviewers don't follow that trend whose articles and work I particularly enjoy reading :
 
-- Tevis Thompson (http://tevisthompson.com/), who has written long noteworthy posts about the state of game reviewing,
-- Jed Pressgrove (https://gamebias.wordpress.com/),
-- Joel Goodwin (http://www.electrondance.com/, has made some excellent short films on various topics, such as No Man's Sky, or the joy of exploration in video games, which you can view on youtube (https://www.youtube.com/user/TheHarbourMaster)).
+- [Tevis Thompson](http://tevisthompson.com/), who has written long noteworthy posts about the state of game reviewing,
+- [Jed Pressgrove](https://gamebias.wordpress.com/),
+- [Joel Goodwin](http://www.electrondance.com/, has made some excellent short films on various topics, such as No Man's Sky, or the joy of exploration in video games, which you can view on [youtube](https://www.youtube.com/user/TheHarbourMaster)).
 
 Here are a few Youtube channels with interesting content :
-- The channel with the 'Ross's Game Dungeon' series (https://www.youtube.com/user/chilledsanity),
-- Errant Signal (https://www.youtube.com/user/Campster),
-- Curly Brace (https://www.youtube.com/channel/UCRcLI-JPNerzN4fiqZlbIlw).
+- [The channel with the 'Ross's Game Dungeon' series](https://www.youtube.com/user/chilledsanity),
+- [Errant Signal](https://www.youtube.com/user/Campster),
+- [Curly Brace](https://www.youtube.com/channel/UCRcLI-JPNerzN4fiqZlbIlw).
 
 And here are a few personal friends who also write interesting game reviews. Their creativity and flourish in their prose are far more refined than mine. It's all in French though.
-- Maratz (https://nicolasmoisson.fr/ecrits),
-- Oriane (https://oriane.ink/critique/notes/jeu).
+- [Maratz](https://nicolasmoisson.fr/ecrits),
+- [Oriane](https://oriane.ink/critique/notes/jeu).
 
 ### Contact me
 
