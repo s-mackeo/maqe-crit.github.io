@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
 I'm a young male adult in his mid-twenties. I used to play a lot of Nintendo games (I owned a GBC and a Gamecube) and be a little fanboy that (mild-mannerly) praised games on my system that I'd never played and trashed rival stuff. I'd say I'm somewhat past that now. 
@@ -23,7 +24,7 @@ Here are a few reviewers don't follow that trend whose articles and work I parti
 Here are a few Youtube channels with interesting content :
 - Ross's Game Dungeon
 - Errant Signal
-- Curly Brace
+- Curly Brace.
 
 And here are a few personal friends who also write interesting game reviews. Their creativity and flourish in their prose are far more refined than mine. It's in French though.
 - 
