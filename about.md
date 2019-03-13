@@ -22,8 +22,8 @@ Here are a few reviewers don't follow that trend whose articles and work I parti
 - Joel Goodwin (Electron Dance, has made some excellent short films on various topics, such as No Man's Sky, or the joy of exploration in video games, which you can view on youtube).
 
 Here are a few Youtube channels with interesting content :
-- Ross's Game Dungeon
-- Errant Signal
+- Ross's Game Dungeon,
+- Errant Signal,
 - Curly Brace.
 
 And here are a few personal friends who also write interesting game reviews. Their creativity and flourish in their prose are far more refined than mine. It's in French though.
