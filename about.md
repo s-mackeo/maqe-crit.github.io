@@ -27,8 +27,8 @@ Here are a few Youtube channels with interesting content :
 - [Curly Brace](https://www.youtube.com/channel/UCRcLI-JPNerzN4fiqZlbIlw).
 
 And here are a few personal friends who also write interesting game reviews. Their creativity and flourish in their prose are far more refined than mine. It's all in French though.
-- [Maratz](https://nicolasmoisson.fr/ecrits),
-- [Oriane](https://oriane.ink/critique/notes/jeu).
+- [Maratz](https://nicolasmoisson.fr/index),
+- [Oriane](https://oriane.ink).
 
 ### Contact me
 
