@@ -17,6 +17,8 @@ This site will mostly be about videogames. For now, anyway.
 
 From what I can tell, most game reviewers are drab, conformist, and uninteresting, following popular expectations and potentially making their minds up about a game before even having played it. 
 
+ I don't read that much about video games, and mostly discuss with friends, anyway, so I don't have too much to recommend.
+
 Here are a few reviewers don't follow that trend whose articles and work I particularly enjoy reading :
 
 - [Tevis Thompson](http://tevisthompson.com/), who has written long noteworthy posts about the state of game reviewing,
@@ -28,10 +30,12 @@ Here are a few Youtube channels with interesting content :
 - [Errant Signal](https://www.youtube.com/user/Campster),
 - [Curly Brace](https://www.youtube.com/channel/UCRcLI-JPNerzN4fiqZlbIlw).
 
-And here are a few personal friends who also write interesting game reviews. Their creativity and flourish in their prose are far more refined than mine. It's all in French though.
+And here are a few personal friends who also write interesting game reviews. Their creativity and flourish in their prose are -in my opinion- more refined than mine. They write mostly in French though.
 - [Maratz](https://nicolasmoisson.fr/index),
 - [Oriane](https://oriane.ink).
 
 ### Contact me
 
-Uuuh, I dunno if I want random people to contact me. Maybe I'll set something up at some point.
+Hmm. If you want to contact me, you can make use of the 'Did you find an error ?' URL at the bottom of each page. It's a convoluted (and very very lazy) way of enabling me to view comments without having to deal with spam, a need to provide an email address, or the need for viewers to register to some commenting service.
+
+If more people request a proper comment option at the bottom of every page, I'll look into it.
