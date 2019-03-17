@@ -5,7 +5,16 @@ permalink: /about/
 published: true
 ---
 
-I'm a young male adult in his mid-twenties. I used to play a lot of Nintendo games when I was a wee lad (I owned a GBC and a Gamecube). I guess I also was a little naive fanboy that (mild-mannerly) praised games I'd never played on systems I owned and downplayed exclusives on rival platforms that I'd also never played. I'd say I'm mostly past that now, thankfully. 
+TODO : 
+Better font
+work out fr/eng
+date issues
+darker background
+/TODO
+
+I'm a young male adult Westerner in his mid-twenties... 
+
+I used to play a lot of Nintendo games when I was a wee lad (I owned a GBC and a Gamecube). I guess I also was a little naive fanboy that (mild-mannerly) praised games I'd never played on systems I owned and downplayed exclusives on rival platforms that I'd also never played. I'd say I'm mostly past that now, thankfully. 
 
 I particularly like the 1998-2005 period of games. Partly because I grew up playing some of them, but also because AAA still had a lot of wild creativity (I'm still unsure know how niche games like Giants : Citizen Kabuto ended up being made), sprawling level designs that didn't feel over-engineered, messing around with fairly advanced 3D without being uncanny-valleyish. Compared to the previous generation, complex worlds could be fleshed out without too many draw distance and polygon count issues, yet still leave much for the player's imagination to fill in. Things started going very downhill after that, in my somewhat limited and biased opinion.
 
